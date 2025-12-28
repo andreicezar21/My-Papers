@@ -9,6 +9,11 @@ The website for this repository is available at:
 
 ---
 
+## Resume
+
+📄 **[View Resume (PDF)](https://drive.google.com/file/d/1O00_kj181hlyb07WNwXwp2pHw09CiEsw/view?usp=sharing)**
+
+
 ## Papers
 
 ### A Probabilistic Analysis and Optimization of a Casino Game  
