@@ -5,11 +5,11 @@ statistics, and data analysis. The papers are written with a focus on mathematic
 clear modeling assumptions, and empirical validation where applicable.
 
 The website for this repository is available at:  
-https://andreicezar21.github.io
+👉 https://andreicezar21.github.io
 
 ---
-[View Paper](https://drive.google.com/file/d/1cPGfRk81VbgMqA9IY-P35wUPkAmbhcNN/view)
-##  Papers
+
+## Papers
 
 ### A Probabilistic Analysis and Optimization of a Casino Game  
 **December 2024**
@@ -19,7 +19,8 @@ measure theory. The paper derives the full probability distribution of outcomes,
 payout functions under profitability constraints, and validates results using experimental
 data.
 
- PDF: https://drive.google.com/file/d/1cPGfRk81VbgMqA9IY-P35wUPkAmbhcNN/view?usp=sharing
+📄 **PDF:**  
+[View Paper](https://drive.google.com/file/d/1cPGfRk81VbgMqA9IY-P35wUPkAmbhcNN/view)
 
 ---
 
@@ -30,7 +31,8 @@ A comparative statistical analysis of spousal homicide rates in Ontario and Queb
 Statistics Canada data (1997–2023). Includes numerical summaries, box plots, histograms,
 time series analysis, and normality testing.
 
- PDF: https://drive.google.com/file/d/1hy1-lhwrc2M4Mf8eSLih1UU2zcF4wECZ/view?usp=sharing
+📄 **PDF:**  
+[View Paper](https://drive.google.com/file/d/1hy1-lhwrc2M4Mf8eSLih1UU2zcF4wECZ/view)
 
 ---
 
@@ -41,9 +43,7 @@ An investigation into the relationship between divorce rates and spousal homicid
 in Ontario. The paper performs correlation analysis, linear regression, residual analysis,
 and examines the impact of outliers on model strength.
 
- PDF: https://drive.google.com/file/d/1-CsP7m1QJCxAdWg44IFM2B2lVrZFeZBT/view?usp=sharing
+📄 **PDF:**  
+[View Paper](https://drive.google.com/file/d/1-CsP7m1QJCxAdWg44IFM2B2lVrZFeZBT/view)
 
 ---
-
-## 🛠 Repository Structure
-
